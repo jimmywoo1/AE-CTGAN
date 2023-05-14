@@ -1,0 +1,14 @@
+{
+    "discrete_cols": [
+        "workclass",
+        "education",
+        "marital-status",
+        "occupation",
+        "relationship",
+        "race",
+        "sex",
+        "native-country"],
+    "encode_required": [],
+    "target_encode": "True",
+    "test_size": 9000
+}

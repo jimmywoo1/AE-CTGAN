@@ -1,0 +1,17 @@
+{
+    "discrete_cols": [
+        "protocol_type",
+        "service",
+        "flag",
+        "is_guest_login",
+        "logged_in",
+        "land"
+    ],
+    "encode_required": [
+        "protocol_type",
+        "service",
+        "flag"
+    ],
+    "target_encode": "True",
+    "test_size": 5000
+}

@@ -1,0 +1,6 @@
+{
+    "discrete_cols": [],
+    "encode_required": [],
+    "target_encode": "False",
+    "test_size": 10000
+}
